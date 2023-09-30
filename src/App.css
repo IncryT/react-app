@@ -1,0 +1,12 @@
+.App {
+  max-width: 800px;
+  margin: 60px auto;
+  background-color: rgb(229, 247, 159);
+  padding: 20px;
+  border: 1px solid rgb(77, 190, 12);
+  border-radius: 5px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
